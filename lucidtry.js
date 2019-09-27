@@ -11,7 +11,6 @@ if (arrayString){
     var array = arrayString.split("");
     var highestCount = 0;
     var mostRepeats;
-    var tempRepeatsCheck;
     var count = 1;
     for (var i = 0; i < array.length; i++){
         //for each one, check the next one to see if they match

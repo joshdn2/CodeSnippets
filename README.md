@@ -1,2 +1,2 @@
 # CodeSnippets
-Snippets of code from my own projects
+Snippets of code from scripts at work. 
